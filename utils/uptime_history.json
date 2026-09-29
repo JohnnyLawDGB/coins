@@ -2032,6 +2032,13 @@
               "discord": "cipi#4502"
             }
           ]
+        },
+        "electrum.digiscope.me:50004": {
+          "contact": [
+            {
+              "email": "mark@aroundtheblock.us"
+            }
+          ]
         }
       },
       "dgb.electrum1.cipig.net:10059": {
@@ -2060,6 +2067,12 @@
       },
       "dgb.electrum3.cipig.net:30059": {
         "1790192356": "offline"
+      },
+      "electrum.digiscope.me:50002": {
+        "1790683423": "online"
+      },
+      "electrum.digiscope.me:50004": {
+        "1790683423": "offline"
       }
     }
   },
@@ -2098,6 +2111,13 @@
               "discord": "cipi#4502"
             }
           ]
+        },
+        "electrum.digiscope.me:50004": {
+          "contact": [
+            {
+              "email": "mark@aroundtheblock.us"
+            }
+          ]
         }
       },
       "dgb.electrum1.cipig.net:10059": {
@@ -2126,6 +2146,12 @@
       },
       "dgb.electrum3.cipig.net:30059": {
         "1790192356": "offline"
+      },
+      "electrum.digiscope.me:50002": {
+        "1790683423": "online"
+      },
+      "electrum.digiscope.me:50004": {
+        "1790683423": "offline"
       }
     }
   },
@@ -3608,7 +3634,8 @@
         "1790192356": "offline",
         "1790304717": "online",
         "1790379557": "offline",
-        "1790654422": "online"
+        "1790654422": "online",
+        "1790683423": "offline"
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1790192356": "online"
@@ -3979,31 +4006,36 @@
         "1790192356": "online"
       },
       "electrum1.kcnxp.com:51004": {
-        "1790192356": "offline"
+        "1790192356": "offline",
+        "1790683423": "online"
       },
       "electrum2.kcnxp.com:51002": {
         "1790192356": "online"
       },
       "electrum2.kcnxp.com:51004": {
-        "1790192356": "offline"
+        "1790192356": "offline",
+        "1790683423": "online"
       },
       "electrum3.kcnxp.com:51002": {
         "1790192356": "online"
       },
       "electrum3.kcnxp.com:51004": {
-        "1790192356": "offline"
+        "1790192356": "offline",
+        "1790683423": "online"
       },
       "electrum4.kcnxp.com:51002": {
         "1790192356": "online"
       },
       "electrum4.kcnxp.com:51004": {
-        "1790192356": "offline"
+        "1790192356": "offline",
+        "1790683423": "online"
       },
       "electrum5.kcnxp.com:51002": {
         "1790192356": "online"
       },
       "electrum5.kcnxp.com:51004": {
-        "1790192356": "offline"
+        "1790192356": "offline",
+        "1790683423": "online"
       }
     }
   },
@@ -4068,31 +4100,36 @@
         "1790192356": "online"
       },
       "electrum1.kcnxp.com:51004": {
-        "1790192356": "offline"
+        "1790192356": "offline",
+        "1790683423": "online"
       },
       "electrum2.kcnxp.com:51002": {
         "1790192356": "online"
       },
       "electrum2.kcnxp.com:51004": {
-        "1790192356": "offline"
+        "1790192356": "offline",
+        "1790683423": "online"
       },
       "electrum3.kcnxp.com:51002": {
         "1790192356": "online"
       },
       "electrum3.kcnxp.com:51004": {
-        "1790192356": "offline"
+        "1790192356": "offline",
+        "1790683423": "online"
       },
       "electrum4.kcnxp.com:51002": {
         "1790192356": "online"
       },
       "electrum4.kcnxp.com:51004": {
-        "1790192356": "offline"
+        "1790192356": "offline",
+        "1790683423": "online"
       },
       "electrum5.kcnxp.com:51002": {
         "1790192356": "online"
       },
       "electrum5.kcnxp.com:51004": {
-        "1790192356": "offline"
+        "1790192356": "offline",
+        "1790683423": "online"
       }
     }
   },
@@ -6723,7 +6760,8 @@
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/964": {
         "1790298184": "offline",
-        "1790654422": "online"
+        "1790654422": "online",
+        "1790683423": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1790192356": "online"
@@ -7223,7 +7261,8 @@
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/964": {
         "1790298184": "offline",
-        "1790654422": "online"
+        "1790654422": "online",
+        "1790683423": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1790192356": "online"
