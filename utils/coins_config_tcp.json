@@ -9351,6 +9351,15 @@
         },
         "electrum": [
             {
+                "url": "electrum.digiscope.me:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "mark@aroundtheblock.us"
+                    }
+                ]
+            },
+            {
                 "url": "dgb.electrum1.cipig.net:20059",
                 "protocol": "SSL",
                 "contact": [
@@ -9371,15 +9380,6 @@
                     },
                     {
                         "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.digiscope.me:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "mark@aroundtheblock.us"
                     }
                 ]
             }
@@ -9430,6 +9430,15 @@
         },
         "electrum": [
             {
+                "url": "electrum.digiscope.me:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "mark@aroundtheblock.us"
+                    }
+                ]
+            },
+            {
                 "url": "dgb.electrum1.cipig.net:20059",
                 "protocol": "SSL",
                 "contact": [
@@ -9450,15 +9459,6 @@
                     },
                     {
                         "discord": "cipi#4502"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.digiscope.me:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "mark@aroundtheblock.us"
                     }
                 ]
             }

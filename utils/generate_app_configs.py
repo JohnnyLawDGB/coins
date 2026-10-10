@@ -11,6 +11,7 @@ from scan_electrums import get_electrums_report
 from ensure_chainids import ensure_chainids
 from logger import logger
 from uptime_tracker import UptimeTracker, format_contact_info
+from electrum_order import sort_electrums_preferred_first
 
 
 current_time = time.time()
@@ -570,7 +571,10 @@ class CoinConfig:
                                         )
                 
                 if len(valid_electrums) > 0:
-                    valid_electrums = sort_dicts_list(valid_electrums, "url")                 
+                    # DigiByte fork: our own servers first, see electrum_order.
+                    valid_electrums = sort_electrums_preferred_first(
+                        valid_electrums, "url"
+                    )
                     self.data[self.ticker].update({"electrum": valid_electrums})
                     
                     # Track coin as online
